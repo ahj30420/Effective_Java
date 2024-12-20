@@ -9,3 +9,5 @@ public class Singleton2 {
 
     public void method(){}
 }
+
+

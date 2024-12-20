@@ -1,6 +1,6 @@
 package chapter02.item02;
 
-public class BuilderExample {
+public class BuilderExample{
     private final int servingSize;      //필수
     private final int servings;         //필수
     private final int calories;         //선택
